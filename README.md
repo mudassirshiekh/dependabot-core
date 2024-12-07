@@ -28,6 +28,7 @@ Welcome to the public home of Dependabot :dependabot:.
 ---
 
 # What is Dependabot-Core?
+## BY Mudassir Alam
 
 Dependabot-Core is the library at the heart of [Dependabot](https://docs.github.com/en/code-security/dependabot) security / version updates.
 
